@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="main.main.GuessEvaluatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-04T03:54:05" hostname="wifi189-145.bucknell.edu" time="2.969">
+  <properties/>
+  <testcase name="winnerUser()" classname="main.main.GuessEvaluatorTest" time="2.969"/>
+  <system-out><![CDATA[Secret word eve
+Secret word cola
+Secret word shard
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

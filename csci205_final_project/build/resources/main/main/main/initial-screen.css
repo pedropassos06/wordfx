@@ -1,0 +1,45 @@
+#three-letter-btn {
+    -fx-pref-width: 300;
+    -fx-pref-height: 100;
+    -fx-font-size: 30;
+    -fx-font-weight: bold;
+    -fx-text-alignment: center;
+}
+
+#four-letter-btn {
+    -fx-pref-width: 300;
+    -fx-pref-height: 100;
+    -fx-font-size: 30;
+    -fx-font-weight: bold;
+    -fx-text-alignment: center;
+}
+
+#five-letter-btn {
+    -fx-pref-width: 300;
+    -fx-pref-height: 100;
+    -fx-font-size: 30;
+    -fx-font-weight: bold;
+    -fx-text-alignment: center;
+}
+
+#question {
+    -fx-font-weight: bold;
+    -fx-font-family: Verdana;
+    -fx-font-size: 30;
+    -fx-text-alignment: center;
+}
+
+#group-name {
+    -fx-font-size: 15;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+}
+
+#header {
+    -fx-alignment: center;
+}
+
+#button-pane {
+    -fx-alignment: center;
+    -fx-spacing: 20;
+}
